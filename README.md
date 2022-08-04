@@ -4,7 +4,7 @@ A windows form application about demonstrating exhibits of the Minoan Museum.
 
 ## Description
 
-Minoan_Museum application is a windows form application written in C#. A user or guest can log in and
+Minoan_Museum application is a windows form application written in C#. There are two role users, guests and registered users. Guests have limited access whereas registered users have whole access. 
 
 
 ## Getting Started
