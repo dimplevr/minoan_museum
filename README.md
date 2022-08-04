@@ -1,10 +1,11 @@
 # Minoan_museum
 
-A windows form application about demonstrating
+A windows form application about demonstrating exhibits of the Minoan Museum.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+Minoan_Museum application is a windows form application written in C#. A user or guest can log in and
+
 
 ## Getting Started
 
