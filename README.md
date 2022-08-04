@@ -4,7 +4,11 @@ A windows form application about demonstrating exhibits of the Minoan Museum.
 
 ## Description
 
-Minoan_Museum application is a windows form application written in C#. There are two role users, guests and registered users. Guests have limited access whereas registered users have whole access. Minoan_Museum supports multimedia (music and video player).
+Minoan_Museum application is a windows form application written in C#. There are two role users, guests and registered users. Guests have limited access whereas registered users have whole access. Minoan_Museum has the features below:
+* Supports multimedia (music and video player)
+* Foto gallery 
+* It keeps a history of the application pages you visited and there is an option to reset the history. 
+* Technologies used: C#, SQL Server, .Net Framework 4.5, Linq
 
 
 ## Getting Started
@@ -48,7 +52,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
 ## Acknowledgments
 
