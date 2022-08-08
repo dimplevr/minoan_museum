@@ -16,13 +16,15 @@ Minoan_Museum application is a windows form application written in C#. There are
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* .Net Framework 4.5
+* Microsoft SQL Server 2012
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Firstly, download the minoan_museum1.rar file from github.
+* Decompress the minoan_museum1.rar file and paste the folder to the Desktop.
+* After following this path \Desktop\minoan_museum1\Setup\Release, you click Setup file to install the application.
+* As you follow the steps of the installation
 
 ### Executing program
 
@@ -58,7 +60,7 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-* [Visual Studio 2017]([https://github.com/matiassingers/awesome-readme](https://visualstudio.microsoft.com/vs/older-downloads/))
+* [Visual Studio 2017](https://visualstudio.microsoft.com/vs/older-downloads/))
 * [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 * [dbader](https://github.com/dbader/readme-template)
 * [zenorocha](https://gist.github.com/zenorocha/4526327)
