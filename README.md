@@ -34,19 +34,11 @@ Minoan_Museum application is a windows form application written in C#. There are
 code blocks for commands
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
-
 ## Authors
 
 Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+ 
+ex. [@Dimitrios Plevrakis](https://www.linkedin.com/in/dimitrios-plevrakis/)
 
 ## Version History
 
